@@ -1,3 +1,3 @@
-# OlgaShowcase
+# Aria Showcase
 
-A website for showcasing the [Olga 2 project](https://github.com/protozeFoss/Olga "Olga 2 Github"). 
+A website for showcasing the [Aria PGN Viewer project](https://github.com/protozeFoss/Aria "Aria Github"). 
